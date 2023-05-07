@@ -19,8 +19,6 @@ public class Main {
         System.out.println("kdvOrani = " + kdvOrani);
         System.out.println("kdvTutari = " + kdvTutari);
         System.out.println("kdvliTutar = " + kdvliTutar);
-
-
     }
 }
 
